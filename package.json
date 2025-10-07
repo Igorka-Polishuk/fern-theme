@@ -1,0 +1,21 @@
+{
+  "name": "fern-theme",
+  "displayName": "Fern Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fern Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fern Theme-color-theme.json"
+      }
+    ]
+  }
+}
