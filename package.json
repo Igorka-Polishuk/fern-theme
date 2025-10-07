@@ -3,11 +3,23 @@
   "displayName": "Fern Theme",
   "description": "",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "directory": "https://github.com/Igorka-Polishuk/fern-theme.git"
+  },
   "engines": {
     "vscode": "^1.104.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Anime",
+    "anime",
+    "Fern",
+    "Purple hair",
+    "purple color",
+    "dark"
   ],
   "contributes": {
     "themes": [
